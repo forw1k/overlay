@@ -1,6 +1,6 @@
 .my-modal.open .modal-overlay, .my-modal.open .modal-window {
   opacity: 1;
-  z-index: 200;
+  z-index: 2;
 }
 
 .modal-window, .modal-overlay {
